@@ -22,7 +22,7 @@ Development Tools: Git, GitHub, Visual Studio Code, Chrome DevTools, Postman
 
 ** 🏡 Real Estate Management Application
 
-Company: Zest India IT Services, Pune.
+Company: SevenMind Technology LLP, Pune.
 Role: Angular Developer
 Domain: Real Estate
 
@@ -41,7 +41,7 @@ Technologies: Angular, TypeScript, Bootstrap, RxJS, REST APIs
 
 ** 🏥 Health Sync — Healthcare Management Application
 
-Company: Zest India IT Services, Pune.
+Company: SevenMind Technology LLP, Pune.
 Role: Angular Developer
 Domain: Healthcare 
 
@@ -84,7 +84,7 @@ Hardware & Software Troubleshooting, MS Outlook, MS Teams, VPN, LAN, IT Asset Ma
 
 💼 Professional Experience
 
-Zest India IT Service, Pune — Angular Developer
+SevenMind Technology LLP, Pune — Angular Developer
 VDA Infosolutions Private Limited, Pune — FMS Support Engineer
 
 🎓 Education
