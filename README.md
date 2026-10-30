@@ -22,7 +22,7 @@ Development Tools: Git, GitHub, Visual Studio Code, Chrome DevTools, Postman
 
 ** 🏡 Real Estate Management Application
 
-Company: SevenMind Technology LLP, Pune.
+Company: SevenMind Technology, Pune.
 Role: Angular Developer
 Domain: Real Estate
 
@@ -41,7 +41,7 @@ Technologies: Angular, TypeScript, Bootstrap, RxJS, REST APIs
 
 ** 🏥 Health Sync — Healthcare Management Application
 
-Company: SevenMind Technology LLP, Pune.
+Company: SevenMind Technology, Pune.
 Role: Angular Developer
 Domain: Healthcare 
 
@@ -58,41 +58,16 @@ Technologies: Angular, TypeScript, Angular Material, RxJS, REST APIs
 - Implemented HTTP Interceptors for authentication token handling and lazy loading to optimize application performance.
 - Tested API functionality using Postman and debugged frontend issues using Chrome DevTools.
 
-** IT Service Request Management & FMS Support
-
-Company: VDA Infosolutions
-Role: FMS Support Engineer
-Domain: IT Infrastructure & Service Management
-
-Project Overview:
-Supported IT service management operations by handling incidents, service requests, end-user technical issues, and IT asset management to ensure smooth IT operations.
-
-Key Responsibilities:
-
-- Logged, tracked, prioritized, and updated IT incidents and service requests using ticketing tools.
-- Provided end-user support for Windows OS, desktops, laptops, hardware, and software issues.
-- Troubleshot Outlook, Microsoft Teams, VPN, LAN connectivity, and application access issues.
-- Monitored ticket progress and ensured timely resolution within defined SLA timelines.
-- Coordinated with technical teams to escalate and resolve complex IT issues.
-- Managed IT asset allocation, deallocation, device handovers, and inventory records.
-- Assisted with system configuration, software installation, and troubleshooting.
-- Documented incident details, resolutions, and service request updates.
-
-Skills & Tools: 
-IT Service Management (ITSM), Incident Management, Ticket Management, SLA Monitoring, Windows OS, Desktop Support, 
-Hardware & Software Troubleshooting, MS Outlook, MS Teams, VPN, LAN, IT Asset Management, Microsoft Excel, End-User Support.
-
 💼 Professional Experience
 
-SevenMind Technology LLP, Pune — Angular Developer
-VDA Infosolutions Private Limited, Pune — FMS Support Engineer
+SevenMind Technology, Pune — Angular Developer
 
 🎓 Education
 
 Bachelor of Technology (B.Tech) — Fabtech Technical Campus & COE, Sangola (2019–2022)
 Diploma (MSBTE) — Shivaji Polytechnic College, Sangola (2017–2019)
 
-🤝 Connect With Me
+🤝 Connect With Me on
 
 💼 LinkedIn: https: https://www.linkedin.com/in/shanteshwar-birajdar-677151434/?isSelfProfile=true
 📧 Email: Shanteshwarbirajdar91@gmail.com
