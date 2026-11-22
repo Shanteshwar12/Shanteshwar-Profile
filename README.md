@@ -2,7 +2,7 @@ Hi, I'm Shanteshwar Birajdar 👋
 
 💻 Angular Developer | Frontend Developer
 
-I'm a Frontend Developer with 2.6+ years of professional experience, specializing in building responsive, reusable, and user-friendly web applications using Angular, TypeScript, JavaScript, HTML5, CSS3, and RxJS.
+I'm a Frontend Developer with 2+ years of professional experience, specializing in building responsive, reusable, and user-friendly web applications using Angular, TypeScript, JavaScript, HTML5, CSS3, and RxJS.
 
 I have experience developing reusable UI components, integrating REST APIs, implementing JWT authentication and role-based access control, building reactive forms, and optimizing application performance.
 
