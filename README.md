@@ -2,7 +2,7 @@ Hi, I'm Shanteshwar Birajdar 👋
 
 💻 Angular Developer | Frontend Developer
 
-I'm a Frontend Developer with 2+ years of professional experience, specializing in building responsive, reusable, and user-friendly web applications using Angular, TypeScript, JavaScript, HTML5, CSS3, and RxJS.
+I'm a Angular Developer with 2+ years of professional experience, specializing in building responsive, reusable, and user-friendly web applications using Angular, TypeScript, JavaScript, HTML5, CSS3, and RxJS.
 
 I have experience developing reusable UI components, integrating REST APIs, implementing JWT authentication and role-based access control, building reactive forms, and optimizing application performance.
 
@@ -22,7 +22,7 @@ Development Tools: Git, GitHub, Visual Studio Code, Chrome DevTools, Postman
 
 ** 🏡 Real Estate Management Application
 
-Company: SevenMind Technology, Pune.
+Company: Zest India IT Service, Pune.
 Role: Angular Developer
 Domain: Real Estate
 
@@ -41,7 +41,7 @@ Technologies: Angular 20, TypeScript, Bootstrap, RxJS, REST APIs
 
 ** 🏥 Health Sync — Healthcare Management Application
 
-Company: SevenMind Technology, Pune.
+Company: Zest India IT Service, Pune.
 Role: Angular Developer
 Domain: Healthcare 
 
@@ -76,7 +76,7 @@ Technologies: Angular 20, TypeScript, JavaScript, HTML5, CSS3, Angular CLI, Git,
 
 💼 Professional Experience
 
-SevenMind Technology, Pune — Angular Developer
+Zest India IT Service, Pune — Angular Developer
 
 🎓 Education
 
