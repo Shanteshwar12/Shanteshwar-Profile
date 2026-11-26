@@ -2,7 +2,7 @@ Hi, I'm Shanteshwar Birajdar 👋
 
 💻 Angular Developer | Frontend Developer
 
-I'm a Angular Developer with 2+ years of professional experience, specializing in building responsive, reusable, and user-friendly web applications using Angular, TypeScript, JavaScript, HTML5, CSS3, and RxJS.
+I'm a Angular Developer with 2.6 years of professional experience, specializing in building responsive, reusable, and user-friendly web applications using Angular, TypeScript, JavaScript, HTML5, CSS3, and RxJS.
 
 I have experience developing reusable UI components, integrating REST APIs, implementing JWT authentication and role-based access control, building reactive forms, and optimizing application performance.
 
@@ -10,7 +10,7 @@ I enjoy solving frontend challenges, writing clean and maintainable code, and cr
 
 🛠️ Technical Skills
 
-Frontend Technologies: Angular 20, TypeScript, JavaScript ES6+, HTML5, CSS3, Bootstrap, Angular Material
+Frontend Technologies: Angular(v15-v20), TypeScript, JavaScript ES6+, HTML5, CSS3, Bootstrap, Angular Material
 Angular Concepts: Components, Modules, Data Binding, Directives, Pipes, Services, Routing, Route Guards, Lazy Loading
 Forms: Reactive Forms, Form Validation, Custom Validators
 RxJS: Observables, Subjects, BehaviorSubjects, Asynchronous Data Handling
@@ -22,11 +22,11 @@ Development Tools: Git, GitHub, Visual Studio Code, Chrome DevTools, Postman
 
 ** 🏡 Real Estate Management Application
 
-Company: Zest India IT Service, Pune.
+Company: Sevenmind Technology LLP, Pune.
 Role: Angular Developer
 Domain: Real Estate
 
-Technologies: Angular 20, TypeScript, Bootstrap, RxJS, REST APIs
+Technologies: Angular 17, TypeScript, Bootstrap, RxJS, REST APIs
 
 - Developed responsive and reusable Angular components for property listings, property details, and user workflows.
 - Implemented property search and filtering based on location, property type, price range, and other criteria.
@@ -41,11 +41,11 @@ Technologies: Angular 20, TypeScript, Bootstrap, RxJS, REST APIs
 
 ** 🏥 Health Sync — Healthcare Management Application
 
-Company: Zest India IT Service, Pune.
+Company: Sevenmind Technology LLP, Pune.
 Role: Angular Developer
 Domain: Healthcare 
 
-Technologies: Angular 20, TypeScript, Angular Material, RxJS, REST APIs
+Technologies: Angular 15, TypeScript, Angular Material, RxJS, REST APIs
 
 - Developed responsive healthcare application screens using Angular, TypeScript, Angular Material, HTML5, and CSS3.
 - Built reusable components for appointment booking, patient management, and user workflows.
